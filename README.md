@@ -11,7 +11,7 @@ This information from the system can be used either to simply found out more abo
 on, or for people doing CTF's or penetration testing to find crucial information that could lead to 
 finding exploits for the system to use in Privilege Escallation.
 
-## Complete list of what the script finds:
+## Complete list of what the script outputs:
 - Current user's username
 - Hostname of the machine
 - Kernel information
