@@ -39,6 +39,6 @@ finding exploits for the system to use in Privilege Escallation.
 - First run **git clone https://github.com/acfirthh/SysEnum.git**
 - Change directory into where you downloaded the tool **cd </path/to/folder>**
 - Then run **chmod +x sysenum.sh** to make it executable
-!(/images/chmod.png)
+![chmod.png](/images/chmod.png)
 - Finally, run the script using the command **./sysenum.sh**
-!(/images/run.png)
+![run.png](/images/run.png)
