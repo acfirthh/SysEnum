@@ -7,9 +7,9 @@ kernel version,Linux version, compilers installed, processes running, environmen
 privileges, contents of the /etc/hosts file and the /etc/passwd file, mounted devices, network 
 interfaces, and plenty more...
 
-This information from the system can be used either to simply found out more about the system you are
+This information from the system can be used either to simply find out more about the system you are
 on, or for people doing CTF's or penetration testing to find crucial information that could lead to 
-finding exploits for the system to use in Privilege Escallation.
+finding exploits for the system to use in Privilege Escallation. 
 
 ## Complete list of what the script outputs:
 - Current user's username
