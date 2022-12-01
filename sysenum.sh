@@ -67,4 +67,4 @@ echo "$SEPARATOR\n\e[1;33;4mAll Listening Ports:\e[0m\n$(netstat -a)"
 echo "$SEPARATOR\n\e[1;33;4mList Connections with PID:\e[0m\n$(netstat -tp)"
 
 # Shows all files with an SUID bit that can be run with higher privileges than the current user
-echo "$SEPARATOR\n\e[1;35;4mShow files with SUID bit:\e[0m\n$(find / -perm -u=s -type f 2>/dev/null)$(SEPARATOR)"
+echo "$SEPARATOR\n\e[1;35;4mShow files with SUID bit:\e[0m\n$(find / -perm -u=s -type f 2>/dev/null)$SEPARATOR"
